@@ -22,10 +22,10 @@ My overarching goal is continuous evolution as a software developer, driven by a
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 ### Contact me 📩
 
-<p>
-<a href="https://www.linkedin.com/in/junzh0/"><img src="https://img.shields.io/badge/Jun Zhou-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white">  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhoujun97099@gmail.com)</a> 
 
-</p>
+<a href="https://www.linkedin.com/in/junzh0/"><img src="https://img.shields.io/badge/Jun Zhou-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white"></a>  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhoujun97099@gmail.com) 
+
+
 
 
 
