@@ -23,7 +23,7 @@ My overarching goal is continuous evolution as a software developer, driven by a
 ### Contact me 📩
 
 <p>
-<a href="https://www.linkedin.com/in/junzh0/"><img src="https://img.shields.io/badge/Kaiscer Vasquez-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/junzh0/"><img src="https://img.shields.io/badge/Jun Zhou-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white"></a>
 </p>
 
 <br/>
