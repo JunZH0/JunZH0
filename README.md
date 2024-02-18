@@ -23,7 +23,7 @@ My overarching goal is continuous evolution as a software developer, driven by a
 ### Contact me 📩
 
 
-<a href="https://www.linkedin.com/in/junzh0/"><img src="https://img.shields.io/badge/Jun Zhou-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white"></a>       [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhoujun97099@gmail.com) 
+<a href="https://www.linkedin.com/in/junzh0/"><img src="https://img.shields.io/badge/Jun Zhou-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white"></a>     [![zhoujun97099@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhoujun97099@gmail.com) 
 
 
 
@@ -53,6 +53,6 @@ My overarching goal is continuous evolution as a software developer, driven by a
 ### 📊 Stats
 
 ![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=junZH0&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junZH0&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junZH0&theme=dracula&layout=compact)
 
 
