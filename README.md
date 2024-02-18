@@ -52,4 +52,6 @@ My overarching goal is continuous evolution as a software developer, driven by a
 
 ### 📊 Stats
 
-![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=junZH0&show_icons=true&theme=gruvbox)
+![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=junZH0&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junZH0)](https://github.com/anuraghazra/github-readme-stats)
+
