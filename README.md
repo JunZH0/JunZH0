@@ -8,7 +8,7 @@ Avid fan of clean code, im set to improve and learn everyday about new technolog
 <br/>
 
 <details>
- <summary><h3>👨‍💻 Jun's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
  
 I embarked on my coding journey as a dedicated software development student, fueled by a fervent desire to delve into the intricacies of software and coding. This commitment led me to secure my initial internships in the field, where I assumed roles as a Business Intelligence Analyst and subsequently as a Java Solutions Analyst. Both experiences provided valuable insights into data processing, handling, and software architecture modeling.
 
