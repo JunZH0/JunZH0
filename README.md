@@ -14,7 +14,7 @@ I embarked on my coding journey as a dedicated software development student, fue
 
 Upon the successful completion of these internships and my university education, I achieved a significant milestone by securing my inaugural full-time development position as a Full Stack Software Developer at my current company. In this role, my team and I actively engage in the entire lifecycle of web application development, employing Java and SpringBoot for backend operations and harnessing JavaScript, CSS, and HTML for frontend design.
 
-My overarching goal is continuous evolution as a software developer, driven by a commitment to staying abreast of the latest trends and mastering new frameworks and technologies. This pursuit positions me to contribute to the creation of world-class applications and further advance my skills in the dynamic realm of software development.
+My overarching goal is continuous evolution as a software engineer, driven by a commitment to staying abreast of the latest trends and mastering new frameworks and technologies. This pursuit positions me to contribute to the creation of world-class applications and further advance my skills in the dynamic realm of software development.
 </details>
 
 <!-- Social badges section -->
