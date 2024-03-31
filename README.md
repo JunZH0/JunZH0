@@ -27,7 +27,6 @@ My overarching goal is continuous evolution as a software engineer, driven by a 
 
 
 
-
 <br/>
 
 ### 🧰 Languages and Tools
