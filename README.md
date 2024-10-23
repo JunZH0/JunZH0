@@ -2,7 +2,7 @@
 
 **Software Engineer** 
 
-I'm a professional full stack software engineer, currently working, designing and developing web applications using Java and SpringBoot. 
+I'm a full stack software engineer, currently working, designing and developing web applications using Java and SpringBoot. 
 Avid fan of clean code, im set to improve and learn everyday about new technologies and tendencies in my field of work.
 
 <br/>
